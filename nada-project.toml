@@ -1,6 +1,6 @@
-name = "nada_quickstart_programs"
+name = "Check_pairing_filters"
 version = "0.1.0"
-authors = [""]
+authors = ["N/ACC"]
 
 [[programs]]
 path = "src/secret_addition.py"
